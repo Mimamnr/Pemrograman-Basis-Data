@@ -1,0 +1,2 @@
+Execute SQL Script MuhammadImamNaufalRabbani_IF-3_Kepegawaian.sql terlebih dahulu untuk mendapatkan db_karyawan.sql
+Terima Kasih.
